@@ -27,7 +27,7 @@
   <h2>Arquivos</h2>
   <ul>
     <li><code>dados_vendas.xlsx</code>: Arquivo Excel contendo os dados de vendas.</li>
-    <li><code>analise_vendas.py</code>: Script Python que realiza a análise de dados e gera o gráfico.</li>
+    <li><code>main.ipynb</code>: Script Python que realiza a análise de dados e gera o gráfico.</li>
   </ul>
 
   <h2>Bibliotecas Utilizadas</h2>
@@ -40,7 +40,7 @@
   <ol>
     <li>Certifique-se de ter o Python instalado em seu sistema.</li>
     <li>Instale as bibliotecas necessárias: <code>pip install pandas plotly</code>.</li>
-    <li>Coloque o arquivo <code>dados_vendas.xlsx</code> na mesma pasta do script <code>analise_vendas.py</code>.</li>
+    <li>Coloque o arquivo <code>dados_vendas.xlsx</code> na mesma pasta do script <code>main.ipynb</code>.</li>
     <li>Execute o script: <code>python analise_vendas.py</code>.</li>
     <li>O gráfico interativo será exibido em seu navegador padrão.</li>
   </ol>
@@ -52,9 +52,9 @@
   </ul>
 
   <h2>Autor</h2>
-  <p>[Seu Nome]</p>
+  <p>Thiago Marques Luiz</p>
 
   <h2>Licença</h2>
-  <p>[Escolha uma licença, por exemplo, MIT]</p>
+  <p>MIT</p>
 </body>
 </html>
