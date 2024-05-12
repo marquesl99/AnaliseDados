@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Análise de Vendas com Python e Plotly</title>
 </head>
 <body>
   <h1>Análise de Vendas com Python e Plotly</h1>
